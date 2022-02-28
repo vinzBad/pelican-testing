@@ -1,0 +1,12 @@
+Anforderungen:
+
+    Homepage mit Kontaktformular oder Newsletter-Anmeldung (Formulardaten als console.log())
+    Content Pages (z.B. eine Artikel-Übersicht+ einzelne Artikel)
+    About Page
+
+Umsetzung:
+
+    Tool: freie Wahl gem. https://jamstack.com/generators/
+    UI/UX: freie Wahl bzgl. Template/Theme (mit Verweis auf die Quelle)
+    Content: Markdown
+    Hosting inkl. CI/CD: GitHub/GitLab Pages
