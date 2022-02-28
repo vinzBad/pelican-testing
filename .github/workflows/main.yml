@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Deploy PAge
+name: Deploy Page
 
 # Controls when the workflow will run
 on:
@@ -31,4 +31,9 @@ jobs:
         run: pip install poetry --user && python -m poetry install
 
       - name: Build gh-page branch
-        run: make github
+        run: |
+          git config --global user.name 'Github Deploy Page Action'
+          git config --global user.email 'vinzBad@users.noreply.github.com
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
+          git checkout "${GITHUB_REF:11}"
+          poetry run make github
