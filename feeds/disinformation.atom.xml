@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Information Campaign - Disinformation</title><link href="/" rel="alternate"></link><link href="/feeds/disinformation.atom.xml" rel="self"></link><id>/</id><updated>2022-02-22T06:59:00+01:00</updated><entry><title>Bad Disinformation</title><link href="/bad-disinformation.html" rel="alternate"></link><published>2022-02-22T06:59:00+01:00</published><updated>2022-02-22T06:59:00+01:00</updated><author><name>Informatron</name></author><id>tag:None,2022-02-22:/bad-disinformation.html</id><content type="html">&lt;h1&gt;Warning!&lt;/h1&gt;
+&lt;p&gt;You shouldn't believe anything in this category&lt;/p&gt;
+&lt;h2&gt;Explanation&lt;/h2&gt;
+&lt;p&gt;It's the disinformation category. It's strictly about disinformation.&lt;/p&gt;</content><category term="Disinformation"></category><category term="have"></category><category term="we"></category><category term="tags"></category></entry></feed>

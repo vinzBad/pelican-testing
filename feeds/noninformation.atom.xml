@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Information Campaign - Noninformation</title><link href="/" rel="alternate"></link><link href="/feeds/noninformation.atom.xml" rel="self"></link><id>/</id><updated>2022-01-22T11:22:00+01:00</updated><entry><title>Pointless Noninformation</title><link href="/pointless-noninformation.html" rel="alternate"></link><published>2022-01-22T11:22:00+01:00</published><updated>2022-01-22T11:22:00+01:00</updated><author><name>Informatron</name></author><id>tag:None,2022-01-22:/pointless-noninformation.html</id><content type="html">&lt;h1&gt;Bullet points&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;this page&lt;/li&gt;
+&lt;li&gt;serves no&lt;/li&gt;
+&lt;li&gt;purpose&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Noninformation"></category><category term="tags"></category><category term="we"></category><category term="have"></category></entry></feed>
