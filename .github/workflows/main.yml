@@ -35,5 +35,5 @@ jobs:
           git config --global user.name 'Github Deploy Page Action'
           git config --global user.email 'vinzBad@users.noreply.github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
-
+          git fetch origin gh-pages:gh-pages
           poetry run make github
